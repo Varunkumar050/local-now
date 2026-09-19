@@ -8,7 +8,7 @@ import { Provider } from "react-redux";
 
 import App from "./App.jsx";
 
-import { store } from "./Redux/Slices/store";
+import { store } from "./Redux/Slices/Store";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 

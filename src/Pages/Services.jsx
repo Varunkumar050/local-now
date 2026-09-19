@@ -2,10 +2,10 @@ import React from "react";
 
 import { useParams, Link } from "react-router-dom";
 
-import { providers } from "../data/services";
+import { providers } from "../Data/Services";
 
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+import Navbar from "../Components/Navbar";
+import Footer from "../Components/Footer";
 
 
 const Services = () => {

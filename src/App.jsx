@@ -3,10 +3,10 @@ import { Routes, Route } from "react-router-dom";
 
 import Home from "./Home/Home";
 
-import Services from "./pages/Services";
-import Booking from "./pages/Booking";
-import Login from "./pages/Login";
-import Dashboard from "./pages/Dashboard";
+import Services from "./Pages/Services";
+import Booking from "./Pages/Booking";
+import Login from "./Pages/Login";
+import Dashboard from "./Pages/Dashboard";
 
 
 const App = () => {

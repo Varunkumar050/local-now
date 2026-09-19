@@ -4,12 +4,12 @@ import { useDispatch } from "react-redux";
 
 import { useNavigate, useParams } from "react-router-dom";
 
-import { providers } from "../data/services";
+import { providers } from "../Data/Services";
 
-import { addBooking } from "../Redux/slices/bookingSlice";
+import { addBooking } from "../Redux/Slices/bookingSlice";
 
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+import Navbar from "../Components/Navbar";
+import Footer from "../Components/Footer";
 
 
 const Booking = () => {

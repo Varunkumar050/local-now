@@ -1,6 +1,6 @@
 import React from "react";
 
-import { providers } from "../data/services";
+import { providers } from "../Data/Services";
 
 import Provider from "./Provider";
 import Mapsection from "./Mapsection";

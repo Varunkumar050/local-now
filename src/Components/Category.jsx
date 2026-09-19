@@ -1,5 +1,5 @@
 import React from "react";
-import { categories } from "../data/services";
+import { categories } from "../Data/Services";
 
 const Category = () => {
   return (
